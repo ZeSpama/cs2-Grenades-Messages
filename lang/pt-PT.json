@@ -1,0 +1,9 @@
+{
+    "Prefix": "[ {lightblue}GM{default} ] ",
+    "ThrowHE": "{orange}HE{default}",
+    "ThrowSMOKE": "{blue}Smoke{default}",
+    "ThrowMOLO": "{lightred}Molotov{default}",
+    "ThrowFLASH": "{yellow}Flash{default}",
+    "ThrowDECOY": "{lime}Decoy{default}",
+    "ThrowINC": "{lightred}Incendiária{default}"
+}
